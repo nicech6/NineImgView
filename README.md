@@ -11,10 +11,11 @@
  ### 2.XML控件
  在XML控件中全路径写该控件，比如我写的时ExampleImgView
 <pre><code>
-  <com.cuihai.nineimgview.ExampleImgView
+  {com.cuihai.nineimgview.ExampleImgView
         android:id="@+id/img"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+        
 </code></pre>
 ## About Me
 weibo : <https://www.weibo.com/icuihai>
