@@ -1,13 +1,19 @@
 # NineImgView
 仿微信朋友圈九张图片控件
 # Use
-写一个类继承NineImgView，实现三个方法：
+### 1.写一个类继承NineImgView，实现三个方法：
 * displayOneImage：
-* 顾名思义只有一张图片调用该方法加载图片，
+ 顾名思义只有一张图片调用该方法加载图片，
 * displayImage：
-* 不是一张图片时调用该方法加载图片
+ 不是一张图片时调用该方法加载图片
 * onClickImage：
-* 图片点击监听
+ 图片点击监听
+ ### 2.XML控件
+ 在XML控件中全路径写该控件，比如我写的时ExampleImgView
+  <com.cuihai.nineimgview.ExampleImgView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 ## About Me
 weibo : <https://www.weibo.com/icuihai>
