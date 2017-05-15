@@ -17,6 +17,7 @@
         android:layout_height="wrap_content" />
         
 </code></pre>
+![image](https://github.com/icuihai/NineImgView/raw/master/img/nineimgview.png)
 ## About Me
 weibo : <https://www.weibo.com/icuihai>
 
