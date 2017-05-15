@@ -15,7 +15,7 @@
         android:id="@+id/img"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-<code/><pre/>
+</code></pre>
 ## About Me
 weibo : <https://www.weibo.com/icuihai>
 
