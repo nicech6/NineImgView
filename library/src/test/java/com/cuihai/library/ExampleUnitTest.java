@@ -1,4 +1,4 @@
-package com.cuihai.mylibrary;
+package com.cuihai.library;
 
 import org.junit.Test;
 

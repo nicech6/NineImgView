@@ -1,4 +1,4 @@
-package com.cuihai.mylibrary;
+package com.cuihai.library;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.cuihai.mylibrary.test", appContext.getPackageName());
+        assertEquals("com.cuihai.library.test", appContext.getPackageName());
     }
 }
