@@ -3,7 +3,7 @@
 # Use
 ### 1.写一个类继承NineImgView，实现三个方法：
 * displayOneImage：
- 顾名思义只有一张图片调用该方法加载图片，
+ 只有一张图片调用该方法加载图片，
 * displayImage：
  不是一张图片时调用该方法加载图片
 * onClickImage：
