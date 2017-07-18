@@ -1,5 +1,5 @@
-# NineImgView
-类似微信朋友圈九宫格图片展示控件
+# NineImgViews
+实现类似微信朋友圈九宫格图片展示控件
 # 如何使用？
 ### 1.写一个类继承NineImgView，实现三个方法：
 * displayOneImage：
