@@ -19,7 +19,8 @@
 </code></pre>
 ![image](https://github.com/icuihai/NineImgView/raw/master/img/nineimgview.png)
 ## About Me
-weibo : <https://www.weibo.com/icuihai>
+weibo : <https://www.weibo.com/icuihai> 
+url : icuihai.com
 
 gmail  : icuihai@gmail.com
 ## License
