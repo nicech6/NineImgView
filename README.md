@@ -8,7 +8,7 @@
  不是一张图片时调用该方法加载图片
 * onClickImage：
  图片点击监听
- ### 2.XML控件
+ ### 2.XML布局
  在XML控件中全路径写该控件，比如我写的时ExampleImgView
 <pre><code>
   {com.cuihai.nineimgview.ExampleImgView
